@@ -1,5 +1,6 @@
 # Aerial-Image-Segmentation-with-PyTorch
-###Skills :
+
+### Skills :
 -Convolutional Neural Network
 -Python Programming
 -Autoencoder
